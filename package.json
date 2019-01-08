@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jrayback/myblockchain/issues"
   },
-  "homepage": "https://github.com/jrayback/myblockchain#readme"
+  "homepage": "https://github.com/jrayback/myblockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "random-words": "^1.1.0"
+  }
 }
