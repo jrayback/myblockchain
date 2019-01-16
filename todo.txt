@@ -1,0 +1,6 @@
+- unit tests
+- refactor?, Bob Martin clean code
+- wrap as a service?
+- create persistence method (even just write to file)
+- implement 'state proof' (merkle root: hash of hashes)
+- multiple nodes and consensus protocol?
